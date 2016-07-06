@@ -1,0 +1,83 @@
+ @charset "utf-8";
+/* CSS Document*/
+@media screen and (min-width: 300px) and (max-width: 370px){
+	.nav{ width:28%; line-height:20px; font-size:15px;}
+	.nav_list li span{ width:40%;}
+	.Content-us-title img{ width:80%;}
+	.fuwu_title p{ line-height:18px;}
+	.font1{ font-size:12px;}
+	.font2{ font-size:16px;}
+	.font3{ font-size:14px;}
+}
+@media screen and (min-width: 330px) and (max-width: 420px) {
+	.nav{ width:26%;}
+	.Content-us-title img{ width:80%;}
+	.fuwu_title p{ line-height:23px;}
+	.font1{ font-size:12px;}
+	.font2{ font-size:18px;}
+	.font3{ font-size:16px;}
+}
+
+@media screen and (min-width: 460px) and (max-width:568px){
+	.header-in a.logo{ width:35%;}
+	.nav{ width:20%;}
+	.weixin_box ul li img{ width:56%;}
+	.main_height{ height:315px;}
+	.link_box img{ width:22px;}
+	.link_box{ font-size:16px;}
+	.x_plBox .x_plText h4 { font-size: 18px;}
+	.Content-us-title img{ width:60%;}
+	.fuwu_title p{ line-height:40px;}
+	.font2{ font-size:18px;}
+	.font3{ font-size:16px;}
+}
+
+@media screen and (min-width:570px) and (max-width:670px){
+	.header-in a.logo{ width:35%;}
+	.nav{ width:20%;}
+	.weixin_box ul li img{ width:46%;}
+	.main_height{ height:360px;}
+	#btn_prev,#btn_next{width:6%!important;}
+	.link_box img{ width:22px;}
+	.link_box{ font-size:16px;}
+	.x_plBox .x_plText h4 { font-size:20px;}
+	.app_list p span{ width:20px !important; height:20px !important; line-height:20px;}
+	.Content-us-title img{ width:55%;}
+	.fuwu_title p{ line-height:45px;}
+	.font1{ font-size:16px;}
+	.font2{ font-size:20px;}
+	.font3{ font-size:18px;}
+}
+@media screen and (min-width:680px) and (max-width:740px){
+	.header-in a.logo{ width:35%;}
+	.nav{ width:20%;}
+	.weixin_box ul li img{ width:46%;}
+	.main_height{ height:360px;}
+	#btn_prev,#btn_next{width:6%!important;}
+	.link_box img{ width:22px;}
+	.link_box{ font-size:16px;}
+	.x_plBox .x_plText h4 { font-size:20px;}
+	.Content-us-title img{ width:50%;}
+	.fuwu_title p{ line-height:50px;}
+	.font1{ font-size:16px;}
+	.font2{ font-size:22px;}
+	.font3{ font-size:20px;}
+}
+
+@media screen and (min-width: 810px){
+	.header-in a.logo{ width:32%;}
+	.nav{ width:15%; line-height:31px;}
+	weixin_box ul li img{ width:40%;}
+	.main_height{ height:538px;}
+	#btn_prev,#btn_next{width:5%!important;}
+	.link_box img{ width:30px;}
+	.link_box{ font-size:20px;}
+	.link_box ul li,.link_box p{ padding-bottom:8px; height:35px; line-height:35px;}
+	.app_list p span{ width:24px !important; height:24px !important; line-height:24px;}
+	.Content-us-title img{ width:40%;}
+	.font1{ font-size:18px;}
+	.font2{ font-size:24px;}
+	.font3{ font-size:22px;}
+	.x_plBox .x_plText h4 { font-size: 24px;}
+	.fuwu_title p{ line-height:60px;}
+}
